@@ -1,7 +1,8 @@
 import ModelViewer from './components/ModelViewer'
+import { type ScrollKeyframe } from './components/ModelViewer'
 import './App.css'
 
-const YAMAHA_KEYFRAMES = [
+const YAMAHA_KEYFRAMES: ScrollKeyframe[] = [
   {
     // 0: HERO - CENTER
     position: [0, 0, 0],
