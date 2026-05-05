@@ -1,0 +1,8 @@
+Model Information:
+* title:	2022 Yamaha R1
+* source:	https://sketchfab.com/3d-models/2022-yamaha-r1-9caf5493d79d47aeacdec415b312fd5e
+* author:	Hari (https://sketchfab.com/Hari31)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
